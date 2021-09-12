@@ -1,1 +1,1 @@
-記事内容に応じた画像URLをpixabayAPIから画像URLを取得するシステムです。
+記事内容に応じた画像URLをpixabayAPIから画像URLを取得するflaskで実装したシステムです。
